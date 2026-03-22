@@ -1,9 +1,15 @@
-#  Alunos - 
-Gabriell Félix França - 01896089
+# 📚 Trabalho de Lógica de Programação
 
-João Pedro de Oliveira Sampaio - 01876459
+## 👨‍🎓 Alunos
+- Gabriell Félix França - 01896089  
+- João Pedro de Oliveira Sampaio - 01876459  
 
-Repositório com o trabalho de Logica de Programação - Prof Mafra 1c
+## 👨‍🏫 Professor
+Prof. Mafra
+
+## 📄 Descrição
+Repositório com a resolução dos exercícios de Lógica de Programação em Python.
+
 ## 📁 Arquivos
 - ex01.py
 - ex02.py
