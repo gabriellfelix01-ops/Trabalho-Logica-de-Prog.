@@ -5,8 +5,6 @@
 - João Pedro de Oliveira Sampaio - 01876459
 - Adryan Jonathan de Oliveira Gomes - 01826043 
 
-## 👨‍🏫 Professor
-Prof. Mafra
 
 ## 📄 Descrição
 Repositório com a resolução dos exercícios de Lógica de Programação em Python.
