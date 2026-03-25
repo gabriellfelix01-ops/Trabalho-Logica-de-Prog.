@@ -2,7 +2,8 @@
 
 ## 👨‍🎓 Alunos
 - Gabriell Félix França - 01896089  
-- João Pedro de Oliveira Sampaio - 01876459  
+- João Pedro de Oliveira Sampaio - 01876459
+- Adryan Jonathan de Oliveira Gomes - 01826043 
 
 ## 👨‍🏫 Professor
 Prof. Mafra
